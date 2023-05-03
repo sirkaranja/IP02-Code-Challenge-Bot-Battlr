@@ -15,6 +15,7 @@
   transition: 0.3s;
   word-wrap: break-word;
   background-color: rgb(114, 114, 175);
+  height: max-content;
 }
 .delete-btn {
   border: 2px solid rgb(243, 17, 17);
