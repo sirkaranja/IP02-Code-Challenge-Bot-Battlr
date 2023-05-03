@@ -15,5 +15,4 @@ Make changes and commit them: git commit -am 'Add new feature'.
 Push to the branch: git push origin my-new-feature.
 Submit a pull request.
 
-### License
-Bot Battlr is licensed under the MIT License. See `LICENSE` for more information.
+
